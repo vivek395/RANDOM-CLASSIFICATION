@@ -10,7 +10,7 @@ To write a python program to perform random classification.
 
 ## Concept: 
 •	Random forest is a supervised learning algorithm which is used for both classification as well as regression.
-•	 Regression is a technique for investigating the relationship between independent variables or features and a dependent variable or outcome. 
+•	Regression is a technique for investigating the relationship between independent variables or features and a dependent variable or outcome. 
 •	It is mainly used for classification problems. It creates decision trees on data samples and then gets the prediction from each of them. Finally, it selects the best solution by means of voting. 
 •	Voting is an ensemble method which is better than a single decision tree because it reduces the over-fitting by averaging the result. 
 •	An overfitting model fits the training data too well, but it fails to do this on the new data.
