@@ -33,14 +33,14 @@ Matplotlib is a plotting library for the Python programming language and its num
 8.	stop the program. 
  
 ## Program Code: 
-
+```
 /*
 Program to implement random classification.
 Developed by   :U.VIVEK KRISHNA
 RegisterNumber :212219040180
 */
-
-'''
+```
+```
 import matplotlib.pyplot as plt 
 
 from sklearn import datasets 
@@ -58,7 +58,7 @@ plt.xlabel("feature 1")
 plt.ylabel("feature 2") 
 
 plt.title('Random Classification Data with 2 classes') 
-'''
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/63917883/166445820-99314a80-dce1-41aa-9b8a-7d2bec9bad53.png)
 
