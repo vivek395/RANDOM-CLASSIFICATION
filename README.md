@@ -33,15 +33,13 @@ Matplotlib is a plotting library for the Python programming language and its num
 8.	stop the program. 
  
 ## Program Code: 
-'''
+
 /*
 Program to implement random classification.
-
 Developed by   :U.VIVEK KRISHNA
-
 RegisterNumber :212219040180
 */
-'''
+
 '''
 import matplotlib.pyplot as plt 
 
